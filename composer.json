@@ -1,0 +1,13 @@
+{
+    "name": "oat-sa/lib-tao-phpunit-toolbox",
+    "type": "metapackage",
+    "require": {
+        "phpunit/phpunit": "^4.8"
+    },
+    "authors": [
+        {
+            "name": "Joel Bout",
+            "email": "joel@taotesting.com"
+        }
+    ]
+}
